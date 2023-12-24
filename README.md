@@ -1,6 +1,6 @@
 # Hi, I'm Anmol Garg! 👋
 
-Welcome to my GitHub profile! Here's a little bit about me:
+Welcome to my GitHub profile! Here's a little bit about me: 
 
 - 👀 I'm interested in full stack web development, with a focus on backend development. I enjoy working on the server-side logic, databases, and building APIs that power web applications.
 - 🌱 I'm currently learning various backend technologies and frameworks to enhance my skills. I'm exploring different programming languages such as Python and JavaScript, and frameworks like Django, Flask, and Node.js.
