@@ -9,6 +9,6 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 On my GitHub, you'll find repositories showcasing my projects and contributions related to full-stack web development. I enjoy working with technologies like Node.js, Express.js, MongoDB, Django, PostgreSQL, etc. Some of my projects highlight my skills in building RESTful APIs, implementing authentication and authorization mechanisms, integrating third-party services, and deploying applications to cloud platforms.
 
-I'm passionate about creating efficient, maintainable, and user-friendly web applications. I believe in the power of clean code, proper documentation, and continuous learning. I love collaborating with other developers, sharing knowledge, and contributing to the open-source community.
+I'm passionate about creating efficient, maintainable, and user-friendly web applications. I believe in the power of clean code, proper documentation, and continuous learning. I love collaborating with other developers, sharing knowledge, and contributing to the open-source community. 
 
 Feel free to explore my repositories and projects. If you have any questions, need assistance, or are interested in collaborating on a project, please don't hesitate to reach out. I'm open to exciting opportunities and collaborations. Let's create amazing web experiences together! 😄🚀
