@@ -1,14 +1,21 @@
 # Hi, I'm Anmol Garg! 👋
 
-Welcome to my GitHub profile! Here's a little bit about me: 
+Welcome to my GitHub profile! Here's a bit about me:
 
-- 👀 I'm interested in full stack web development, with a focus on backend development. I enjoy working on the server-side logic, databases, and building APIs that power web applications.
-- 🌱 I'm currently learning various backend technologies and frameworks to enhance my skills. I'm exploring different programming languages such as Python and JavaScript, and frameworks like Django, Flask, and Node.js.
-- 💞️ I'm looking to collaborate on projects related to web development, particularly in building scalable and robust backend systems. I'm interested in projects that involve solving complex problems, optimizing performance, and creating efficient and secure web applications.
-- 📫 You can reach me via email at anmolgarg12203@gmail.com, or connect with me on www.linkedin.com/in/garg-anmol. Feel free to reach out if you have any questions, or ideas, or if you'd like to collaborate on an interesting project.
+- 👀 I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) developer, with a keen interest in full-stack web development. I enjoy working on both frontend and backend, creating dynamic and scalable web applications.
+- 🌱 Currently, I'm expanding my skill set by diving into Android development, primarily using Kotlin and then Java. I'm also learning advanced concepts in ReactJS and exploring Angular for frontend development. 
+- 💞️ I'm eager to collaborate on projects that involve building robust web and mobile applications. Whether it’s designing intuitive interfaces with Figma, coding in JavaScript, or deploying apps, I'm excited about tackling new challenges and optimizing performance.
+- 📫 Feel free to reach out to me via email at anmolgarg12203@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/garg-anmol). I'm open to discussing ideas, answering questions, or exploring potential collaborations.
 
-On my GitHub, you'll find repositories showcasing my projects and contributions related to full-stack web development. I enjoy working with technologies like Node.js, Express.js, MongoDB, Django, PostgreSQL, etc. Some of my projects highlight my skills in building RESTful APIs, implementing authentication and authorization mechanisms, integrating third-party services, and deploying applications to cloud platforms.
+On my GitHub, you'll find repositories showcasing my work with MERN stack technologies, including projects that highlight my skills in creating RESTful APIs, implementing authentication, and deploying applications. I'm also working on Android projects and experimenting with Kotlin, integrating Figma designs, and using tools like Git and GitHub for version control.
 
-I'm passionate about creating efficient, maintainable, and user-friendly web applications. I believe in the power of clean code, proper documentation, and continuous learning. I love collaborating with other developers, sharing knowledge, and contributing to the open-source community. 
+I'm passionate about writing clean, maintainable code and creating user-friendly applications. I believe in continuous learning and contributing to the open-source community. 
 
-Feel free to explore my repositories and projects. If you have any questions, need assistance, or are interested in collaborating on a project, please don't hesitate to reach out. I'm open to exciting opportunities and collaborations. Let's create amazing web experiences together! 😄🚀
+Feel free to explore my repositories and projects. If you have any questions or ideas, or if you’re interested in collaborating on a project, don’t hesitate to reach out. Let’s build something amazing together! 😄🚀
+
+### Skills and Tools
+- **Languages:** JavaScript (MERN), Java, PHP, HTML, CSS
+- **Code Editors/IDEs:** Visual Studio Code (VS Code), Git, GitHub, Android Studio
+- **Frameworks:** Bootstrap, ReactJS
+- **Currently Learning:** Advanced ReactJS, MongoDB, Angular, Kotlin
+- **Designing Tools:** Figma
