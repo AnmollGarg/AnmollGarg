@@ -1,21 +1,39 @@
-# Hi, I'm Anmol Garg! 👋
+<h1 align="center">Hi 👋, I'm Anmol Garg</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Welcome to my GitHub profile! Here's a bit about me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anmollgarg&label=Profile%20views&color=0e75b6&style=flat" alt="anmollgarg" /> </p>
 
-- 👀 I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) developer, with a keen interest in full-stack web development. I enjoy working on both frontend and backend, creating dynamic and scalable web applications.
-- 🌱 Currently, I'm expanding my skill set by diving into Android development, primarily using Kotlin and then Java. I'm also learning advanced concepts in ReactJS and exploring Angular for frontend development. 
-- 💞️ I'm eager to collaborate on projects that involve building robust web and mobile applications. Whether it’s designing intuitive interfaces with Figma, coding in JavaScript, or deploying apps, I'm excited about tackling new challenges and optimizing performance.
-- 📫 Feel free to reach out to me via email at anmolgarg12203@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/garg-anmol). I'm open to discussing ideas, answering questions, or exploring potential collaborations.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmollgarg" alt="anmollgarg" /></a> </p>
 
-On my GitHub, you'll find repositories showcasing my work with MERN stack technologies, including projects that highlight my skills in creating RESTful APIs, implementing authentication, and deploying applications. I'm also working on Android projects and experimenting with Kotlin, integrating Figma designs, and using tools like Git and GitHub for version control.
+<p align="left"> <a href="https://twitter.com/codeswithanmol" target="blank"><img src="https://img.shields.io/twitter/follow/codeswithanmol?logo=twitter&style=for-the-badge" alt="codeswithanmol" /></a> </p>
 
-I'm passionate about writing clean, maintainable code and creating user-friendly applications. I believe in continuous learning and contributing to the open-source community. 
+- 🔭 I’m currently working on [E - Commerce (MERN) Project](https://github.com/AnmollGarg/BalajiTrades)
 
-Feel free to explore my repositories and projects. If you have any questions or ideas, or if you’re interested in collaborating on a project, don’t hesitate to reach out. Let’s build something amazing together! 😄🚀
+- 🌱 I’m currently learning **Android Development using Kotlin**
 
-### Skills and Tools
-- **Languages:** JavaScript (MERN), Java, PHP, HTML, CSS
-- **Code Editors/IDEs:** Visual Studio Code (VS Code), Git, GitHub, Android Studio
-- **Frameworks:** Bootstrap, ReactJS
-- **Currently Learning:** Advanced ReactJS, MongoDB, Angular, Kotlin
-- **Designing Tools:** Figma
+- 👨‍💻 All of my projects are available at [https://anmollgarg.github.io/anmol-portfolio/](https://anmollgarg.github.io/anmol-portfolio/)
+
+- 📝 I regularly write articles on [https://programmingwithanmol.blogspot.com](https://programmingwithanmol.blogspot.com)
+
+- 💬 Ask me about **ReactJS, MongoDB, JavaScript, NodeJS**
+
+- 📫 How to reach me **anmolgarg12203@gmail.com**
+
+- ⚡ Fun fact **I am Lazy but lively Website Wizard by day, and Developer by night**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/codeswithanmol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeswithanmol" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/garg-anmol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garg-anmol" height="30" width="40" /></a>
+<a href="https://instagram.com/anmol_.garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anmol_.garg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/anmol garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anmol garg" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmollgarg&show_icons=true&locale=en&layout=compact" alt="anmollgarg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmollgarg&show_icons=true&locale=en" alt="anmollgarg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmollgarg&" alt="anmollgarg" /></p>
