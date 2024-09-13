@@ -34,6 +34,8 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmollgarg&show_icons=true&locale=en&layout=compact" alt="anmollgarg" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmollgarg&show_icons=true&locale=en" alt="anmollgarg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmollgarg&" alt="anmollgarg" /></p>
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmollgarg&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmollgarg" alt="GitHub Streak Stats" />
+</p>
